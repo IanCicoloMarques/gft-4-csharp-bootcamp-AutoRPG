@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gft-4-csharp-bootcamp-AutoRPG", "gft-4-csharp-bootcamp-AutoRPG\gft-4-csharp-bootcamp-AutoRPG.csproj", "{E271D626-6489-4CFE-BAD8-EC7A8E09C48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E271D626-6489-4CFE-BAD8-EC7A8E09C48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E271D626-6489-4CFE-BAD8-EC7A8E09C48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E271D626-6489-4CFE-BAD8-EC7A8E09C48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E271D626-6489-4CFE-BAD8-EC7A8E09C48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
